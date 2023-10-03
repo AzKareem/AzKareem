@@ -4,9 +4,12 @@
   </a>
 </p>
 
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzKareem&theme=transparent&show_icons=true&rank_icon=percentile&hide=prs&count_private=true&include_all_commits=true&border_radius=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzKareem&theme=transparent&layout=compact&border_radius=0)
-
+<table align="center">
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=AzKareem&theme=transparent&show_icons=true&rank_icon=percentile"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzKareem&theme=transparent&layout=compact"/></td>
+  </tr>
+</table>
 
 <div align="center">
   
